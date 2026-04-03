@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.ipynb_checkpoints/
+data/processed/processed_data.csv
+data/processed/forecast_error_predictions.csv
+data/processed/forecast_error_price_analysis.csv
+results/
