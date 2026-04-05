@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib
-matplotlib.use("Agg")  # macOS에서 GUI 창 사용
+matplotlib.use("TkAgg")  # macOS에서 GUI 창 사용
 import matplotlib.pyplot as plt
 from statsmodels.tsa.stattools import adfuller 
 from statsmodels.tsa.seasonal import seasonal_decompose
