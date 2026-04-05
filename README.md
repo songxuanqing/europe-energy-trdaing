@@ -10,6 +10,7 @@
 * **분석 데이터**: 유럽 전력 시장 데이터 (2024–2025), 독일(베를린) 기상 데이터 (2024–2025)
 
   * 출처: [https://www.smard.de/en/downloadcenter/download-market-data/](https://www.smard.de/en/downloadcenter/download-market-data/)
+  
     [https://open-meteo.com/en/docs](https://open-meteo.com/en/docs)
 * **기관**: 서울과학종합대학원대학교 (aSSIST)
 * **작성자(학번/이름)**: 2526527005 / 송현경
